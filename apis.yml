@@ -29,6 +29,10 @@ tags:
   - Risk Management
 apis: []
 common:
+  - type: GitHubOrganization
+    url: https://github.com/fmglobal
+  - type: LinkedIn
+    url: https://www.linkedin.com/company/fm-global
   - type: Website
     url: https://www.fm.com
   - type: About
