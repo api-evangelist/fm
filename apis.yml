@@ -29,6 +29,8 @@ tags:
   - Risk Management
 apis: []
 common:
+  - type: DomainSecurity
+    url: security/fm-domain-security.yml
   - type: GitHubOrganization
     url: https://github.com/fmglobal
   - type: LinkedIn
