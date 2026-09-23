@@ -1,7 +1,9 @@
 ---
 title: News Release Archive
 url: https://newsroom.fmglobal.com/releases?t=artificial+intelligence
-date: '2026-05-25'
+published: ''
+date_basis: harvested
+harvested: '2026-05-25'
 query: '"FM Global" press release artificial intelligence'
 position: 3
 source: serpapi-google

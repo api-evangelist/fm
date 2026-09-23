@@ -1,7 +1,9 @@
 ---
 title: FM in the News
 url: https://newsroom.fmglobal.com/news
-date: '2026-05-25'
+published: ''
+date_basis: harvested
+harvested: '2026-05-25'
 query: '"FM Global" press release artificial intelligence'
 position: 1
 source: serpapi-google
