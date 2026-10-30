@@ -1,4 +1,4 @@
-# FM / FM Global (fm)
+# FM (FM Global)
 
 <!-- API-EVANGELIST-PROVENANCE:BEGIN -->
 > ### About this repository
@@ -64,44 +64,81 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-FM (formerly FM Global) is a mutual insurance company specializing in commercial and industrial property insurance, loss prevention engineering, and risk management research. FM operates through six business units — FM, FM Affiliated, FM Approvals, FM Boiler Re, FM Cargo, and FM Renewable Energy — and is one of the largest commercial property insurers in the world.
+FM (formerly FM Global) is a mutual insurance company specializing in commercial and industrial property insurance, loss prevention engineering, and risk management research. FM operates through six business units including FM, FM Affiliated, FM Approvals, FM Boiler Re, FM Cargo, and FM Renewable Energy, and is one of the largest commercial property insurers in the world. This repository tracks the FM (fm.com) entity and any APIs, developer tools, and machine-readable artifacts. The abbreviation "FM" is also used in unrelated contexts (Facilities Management, FM radio broadcasting, financial management); this repository is scoped to the FM Global commercial property insurer that owns the fm.com domain. No public APIs or developer programs are currently published.
 
-This repository tracks the FM (fm.com) entity and any APIs, developer tools, and machine-readable artifacts. The abbreviation "FM" is also used in unrelated contexts (Facilities Management, FM radio broadcasting, financial management); this repository is scoped to the FM Global commercial property insurer that owns the fm.com domain.
+**Areas:** Commercial Insurance · Fortune 500 · Insurance · Loss Prevention · Property Insurance · Risk Management
 
-**URL:** [Visit APIs.json URL](https://raw.githubusercontent.com/api-evangelist/fm/refs/heads/main/apis.yml)
+## FM (FM Global) on APIs.io
 
-## Scope
+Everything profiled for FM (FM Global) is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/fm/](https://apis.io/providers/fm/)** — or go straight to one of the APIs or properties below.
 
-- **Type:** Index
-- **Position:** Consuming
-- **Access:** 3rd-Party
+### Published properties
 
-## Tags
+Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
 
-- Commercial Insurance
-- Fortune 500
-- Insurance
-- Loss Prevention
-- Property Insurance
-- Risk Management
+#### Security (1)
 
-## APIs
+Authentication, trust centre, and vulnerability disclosure.
 
-No public APIs have been documented for FM / FM Global. Contributions welcome.
+- [Fm Domain Security](https://apis.io/security/fm/fm-domain-security/)
 
-## Common Properties
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
 
 - [Website](https://www.fm.com)
-- [About](https://www.fm.com/about-us)
-- [Research and Resources](https://www.fm.com/research-and-resources)
+- [Blog](https://www.fm.com/insights)
+- [GitHub](https://github.com/fmglobal)
 
-## Timestamps
+## API Evangelist rating
 
-- **Created:** 2026-03-21
-- **Modified:** 2026-04-28
+**Kin Score 3.9** — minimal · rubric 0.24.0 · scored 2026-10-17
 
-## Maintainers
+| Facet | Score |
+|---|---|
+| Discoverability | 48.2 |
+| Contract quality | 0.0 |
+| Contract governance | 0.0 |
+| Operational transparency | 2.6 |
+| Developer ergonomics | 2.4 |
+| Access clarity | 0.0 |
 
-**FN:** Kin Lane
+**Agent readiness 0.0** — human-only
 
-**Email:** kin@apievangelist.com
+| Agent-readiness dimension | Result |
+|---|---|
+| Spec Presence | — |
+| Agentic Access | — |
+| Reversibility Documented | — |
+| MCP Server | — |
+| Auth Clarity | — |
+| Idempotency | — |
+| Error Semantics | — |
+| OpenAPI Examples | — |
+| Rate Limit Signal | — |
+| Event Surface Described | — |
+| Agent Skills | — |
+| Well Known Catalog | — |
+| Consent Identity | — |
+| Agent Card | — |
+| Dry Run Mode | — |
+| Delegated Identity | — |
+| Protected Resource Metadata | — |
+| Dynamic Client Registration | — |
+| Agentic Commerce | — |
+
+**Regulatory alignment 5.3** — Insurance
+
+The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/fm/](https://apis.io/providers/fm/).
+
+## How this profile is made
+
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
+
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for FM (FM Global): the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
+
+## Open an issue
+
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/fm/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
